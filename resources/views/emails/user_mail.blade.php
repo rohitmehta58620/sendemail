@@ -6,9 +6,9 @@
 </head>
 
 <body>
-    <h2>Hello,</h2>
+    <h2 style="color:red">Hello,</h2>
     <p>{{ $messageBody }}</p>
-    <p>Thank you!</p>
+    <p style="color:chartreuse">Thank you!</p>
 </body>
 
 </html>
